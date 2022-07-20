@@ -1,0 +1,23 @@
+.paddinglr{
+    padding-left: 180px;
+    padding-right: 180px;
+}
+.textColor{
+    color: #0066ee;
+}
+.backColor{
+    background-color: #0066ee;
+}
+.linkNav :hover{
+    background-color: #00548b;
+}
+.hover{
+    background-color: #0066ee;
+    padding:10px;
+    text-transform: uppercase;
+    font-weight: 600;
+    font-size: 13px;
+}
+.hover:hover{
+    background-color: #00548b;
+}

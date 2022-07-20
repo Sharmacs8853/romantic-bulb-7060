@@ -1,0 +1,25 @@
+.backimg{
+    background-image: url(https://www.myfitnesspal.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fhero-collage-top-large%402x.dcc5ac56.png&w=1200&q=75);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    height: 750px; 
+    width: 91%;
+    margin: auto;
+}
+.homeflex{
+    height: 700px;
+     width: 100%;
+}
+.leftbox{
+    width: 5%;
+     height: 750px; 
+}
+.contentbox{
+    width: 60%;
+     padding: 40px 0px 20px 140px; 
+}
+.rightbox{
+    width: 5%;
+     height: 750px;
+      background-color:#ffdd33;
+}

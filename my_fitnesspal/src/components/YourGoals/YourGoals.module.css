@@ -1,0 +1,23 @@
+.textheading{
+    text-align: center;
+    margin: auto;
+    padding: 5px;
+}
+.carts{
+    height: 300px;
+    width: 30%;
+    margin-top: 50px;
+    text-align: center;
+    padding: 20px;
+}
+.cartImg{
+    height: 100px;
+    width: 100px;
+    margin: auto;
+}
+.cartImg > img{
+    margin: auto;
+}
+.YourGoalsBtn{
+    text-align: center;
+}

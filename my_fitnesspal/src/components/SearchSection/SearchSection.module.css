@@ -1,0 +1,51 @@
+.searchbox{
+    height:600px;
+    width:100%; 
+    background-color:#ffdd33;
+    margin-top:-100px;
+}
+.hrtag{
+    font-size:50px;
+    height:3px;
+    background-color:white;
+}
+.searchContentBox{
+    padding: 0px 100px 0px 100px;
+}
+.heading{
+ margin: auto;
+ margin-top: -30px;
+ text-align: center;
+    
+}
+.text{
+    margin: auto;
+    margin-top: 30px;
+    text-align: center;
+}
+.serarchbuttonbox{
+    height: 300px;
+    width: 90%;
+    margin: auto;
+    background-image: url(https://www.myfitnesspal.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fhero-collage-search-bottom-large%402x.34b86b17.png&w=1200&q=75);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+.inputtagwrap{
+    height:80px;
+    background-color:#ffffff;
+    width: 90%;
+    margin: auto;
+    border-radius: 40px;
+    margin-top: 20px;
+}
+.inputtag{
+    height:80px;
+    background-color:#ffffff;
+    width: 90%;
+    margin: auto;
+    border-radius: 40px;
+    border: none;
+    padding: 2px 20px 2px 50px;
+    font-size: large;
+}
