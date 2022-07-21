@@ -1,0 +1,11 @@
+.recipesbox{
+    text-align: center;
+}
+.cartbox{
+    box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 1px 3px 1px;
+    border-radius: 10px;
+}
+.cartImg{
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}

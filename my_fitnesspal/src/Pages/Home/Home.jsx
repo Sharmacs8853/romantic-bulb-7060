@@ -4,6 +4,10 @@ import styles from './Home.module.css';
 import '../../components/Styles/commanStyle.css'
 import SearchSection from '../../components/SearchSection/SearchSection';
 import YourGoals from '../../components/YourGoals/YourGoals';
+import Victory from '../../components/Victory/Victory';
+import Recipes from '../../components/Recipes/Recipes';
+import Apps50 from '../../components/Apps50/Apps50';
+//import FootSection from '../../components/FootSection/FootSection';
 const Home = () => {
   return (<>
     <Flex className={styles.homeflex}>
@@ -24,7 +28,10 @@ const Home = () => {
     </Flex>
     <SearchSection />
     <YourGoals />
-    
+    <Victory />
+    <Recipes/>
+    <Apps50 />
+   
   </>
   )
 }
