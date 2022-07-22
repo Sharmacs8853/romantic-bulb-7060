@@ -19,8 +19,8 @@ const FootSection = () => {
   ]
   return (
     <Box className={styles.footerBox}>
-      <Container maxWidth='container.lg'>
-        <Flex>
+      <Container maxWidth='container.xl'>
+        <Flex justifyContent={'center'}>
           <Box>
             <Flex pt='30px' gap={3} justifyContent='center'>
               {
@@ -31,15 +31,15 @@ const FootSection = () => {
             </Flex>
           </Box>
           <Box pt='30px' pl='20px'>
-              <select maxWidth='150px'>
-                <option>Hindi</option>
-                <option>English</option>
-                <option>Deutsch</option>
-                <option>francais</option>
-                <option>Norsk</option>
-                <option>Danks</option>
-                <option>Italianao</option>
-              </select>
+            <select maxWidth='150px'>
+              <option>English</option>
+              <option>Hindi</option>
+              <option>Deutsch</option>
+              <option>francais</option>
+              <option>Norsk</option>
+              <option>Danks</option>
+              <option>Italianao</option>
+            </select>
           </Box>
         </Flex>
       </Container>
