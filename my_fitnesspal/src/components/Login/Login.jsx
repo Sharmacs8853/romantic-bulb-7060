@@ -20,9 +20,20 @@ const Login = () => {
                 </Button>
             </Flex>
         </Container>
-        <Text pt={5} textAlign={'center'}>Not a member yet?<Link color='blue' to='/'>Sign up now!</Link> </Text>
+        <Flex size='13px' justifyContent={'center'} mt={5}>
+            <Text  textAlign={'center'}>Not a member yet? </Text>
+            <Text color='blue'><Link to='/'> Sign up now</Link>!</Text>
+        </Flex>
+       
         </Box>
     )
 }
 
 export default Login
+
+// `https://api.nal.usda.gov/fdc/v1/foods...{encodeURIComponent(params.api_key)}&query=${encodeURIComponent(params.query)}&dataType=${encodeURIComponent(params.dataType)}&pageSize=${encodeURIComponent(params.pagesize)}`
+// `https://api.nal.usda.gov/fdc/v1/foods...{encodeURIComponent(params.api_key)}&query=${encodeURIComponent(params.query)}&dataType=${encodeURIComponent(params.dataType)}&pageSize=${encodeURIComponent(params.pagesize)}`
+
+// `https://api.nal.usda.gov/fdc/v1/foods/search?query=banana&pageSize=2&api_key=VbH2yXFcNCuUain5v2AhjEC1DkQAXyBMjvof1N5F`
+
+ //Api key//VbH2yXFcNCuUain5v2AhjEC1DkQAXyBMjvof1N5F 
