@@ -1,0 +1,254 @@
+{
+  "exerciseType": [
+    {
+      "id": 1,
+      "title": "9Round"
+    },
+    {
+      "id": 2,
+      "title": "Aerobics, high impact"
+    },
+    {
+      "id": 3,
+      "title": "Aerobics, step, with 10-12 inch step"
+    },
+    {
+      "id": 4,
+      "title": "Arc Trainer by Cybex, moderate, resistance 35, 120 steps per minute"
+    },
+    {
+      "id": 5,
+      "title": "Badminton, competitive"
+    },{
+      "id": 6,
+      "title": "Barre3"
+    },
+    {
+      "id": 7,
+      "title": "Basketball, game"
+    },
+    {
+      "id": 8,
+      "title": "Beat Saber"
+    },
+    {
+      "id": 9,
+      "title": "Chair Yoga"
+    },
+    {
+      "id": 10,
+      "title": "Cleaning, heavy, vigorous effo"
+    },
+    {
+      "id": 11,
+      "title": "Cycling"
+    },
+    {
+      "id": 12,
+      "title": "Cardio exercise"
+    },
+    {
+      "id": 13,
+      "title": "CorePower Yoga"
+    },
+    {
+      "id": 14,
+      "title": "Dancing, ballroom, fast"
+    },
+    {
+      "id": 15,
+      "title": "Dancing, general"
+    },
+    {
+      "id": 16,
+      "title": "Disc Golf"
+    },
+    {
+      "id": 17,
+      "title": "Diving, springboard or platform"
+    },
+    {
+      "id": 18,
+      "title": "Double Stroller, Bike "
+    },
+    {
+      "id": 19,
+      "title": "Darts, wall or lawn"
+    },
+    {
+      "id": 20,
+      "title": "Elliptical Trainer"
+    },
+    {
+      "id": 21,
+      "title": " Elliptical, Under Desk"
+    },
+    {
+      "id": 22,
+      "title": "EverybodyFights"
+    },
+    {
+      "id": 23,
+      "title": "Fishing in stream, in waders"
+    },
+    {
+      "id": 24,
+      "title": "Fishing, general"
+    },{
+      "id": 25,
+      "title": "Fishing, ice, sitting"
+    },
+    {
+      "id": 26,
+      "title": "FITNESS Magazine Ballet Butt Plie"
+    },
+    {
+      "id": 27,
+      "title": "FITNESS Magazine Curtsy Kick"
+    },
+    {
+      "id": 28,
+      "title": "Golf, miniature or driving range"
+    },
+    {
+      "id": 29,
+      "title": "Golf, pulling clubs"
+    },
+    {
+      "id": 30,
+      "title": "Golf, using power cart"
+    },
+    {
+      "id": 31,
+      "title": "Gym Workout"
+    },
+    {
+      "id": 32,
+      "title": "Gymnastics, general "
+    },
+    {
+      "id": 33,
+      "title": "Hiking, cross country"
+    },
+    {
+      "id": 34,
+      "title": " Hockey, field"
+    },
+    {
+      "id": 35,
+      "title": " Hockey, ice"
+    },
+    {
+      "id": 36,
+      "title": " Horse grooming"
+    },
+    {
+      "id": 37,
+      "title": " Horseback riding, general "
+    },
+    {
+      "id": 38,
+      "title": "Ice stock sport"
+    },
+    {
+      "id": 39,
+      "title": " Jet skiing (riding jet ski, water ski-mobiling)"
+    },
+    {
+      "id": 40,
+      "title": "Judo, karate, kick boxing, tae kwan do"
+    },
+    {
+      "id": 41,
+      "title": "Jumping jacks, vigorous "
+    },
+    {
+      "id": 42,
+      "title": " Kangoo Jumps"
+    },
+    {
+      "id": 43,
+      "title": "Kayaking"
+    },{
+      "id": 44,
+      "title": "Kickball"
+    },
+    {
+      "id": 45,
+      "title": "Kickboxing (including Turbo Ja"
+    }, 
+    {
+      "id": 46,
+      "title": " Lacrosse"
+    },
+    {
+      "id": 47,
+      "title": "Lagree Fitness™"
+    },
+    {
+      "id": 48,
+      "title": " Les Mills BODYATTACK™ "
+    },
+    {
+      "id": 49,
+      "title": "Les Mills RPM™"
+    },
+    {
+      "id": 50,
+      "title": "Line dancing "
+    },
+    {
+      "id": 51,
+      "title": " Martial arts"
+    },
+    {
+      "id": 52,
+      "title": "Mild stretching"
+    },
+    {
+      "id": 53,
+      "title": "Mirror"
+    },
+    {
+      "id": 54,
+      "title": " Motocross "
+    },
+    {
+      "id": 55,
+      "title": "Netball"
+    },
+    {
+      "id": 56,
+      "title": "Runnig "
+    },
+    {
+      "id": 57,
+      "title": "Weight Gain"
+    },
+    {
+      "id": 58,
+      "title": "Weight Loss"
+    },
+    {
+      "id": 59,
+      "title": "Weight Lifting"
+    },
+    {
+      "id": 60,
+      "title": "Push Ups"
+    },
+    {
+      "id": 61,
+      "title": "Pull Ups"
+    },
+    {
+      "id": 62,
+      "title": "Rope Jumping"
+    }
+    ,{
+      "id": 63,
+      "title": "Boxing"
+    }
+  ]
+  
+}
